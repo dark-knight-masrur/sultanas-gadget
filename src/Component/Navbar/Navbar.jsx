@@ -39,7 +39,7 @@ const Navbar = () => {
                     </ul>
                 </div>
                 <Link>
-                    <li className="btn-2 text-white uppercase text-2xl italic font-bold">Gadget Heaven</li>
+                    <li className="btn-2 text-white uppercase text-2xl italic font-bold">Sultana's Heaven</li>
                 </Link>
             </div>
             <div className="navbar-center hidden lg:flex ">

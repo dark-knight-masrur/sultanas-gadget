@@ -18,7 +18,7 @@ const ErrorPage = () => {
 
                 <Link to="/">
                     <button className="bg-white hover:bg-[#9538E2] hover:text-white border-2 hover:border-amber-50 text-[#9538E2] px-8 py-3 rounded-full font-semibold text-lg  transition-colors">
-                        Return to Gadget Heaven
+                        Return to Sultana's Heaven
                     </button>
                 </Link>
             </div>

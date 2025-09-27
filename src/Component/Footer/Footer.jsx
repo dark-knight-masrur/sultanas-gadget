@@ -3,7 +3,7 @@ const Footer = () => {
     return (
         <div className="  space-y-10 mt-60">
             <div className=" text-center space-y-3">
-                <h1 className="text-4xl">Gadget Heaven</h1>
+                <h1 className="text-4xl">Sultana's Heaven</h1>
                 <p className="text-xs">Leading the way in cutting-edge technology and innovation.</p>
 
             </div>
